@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9BD72426-BF4F-4209-B7DD-76812CCC168A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>KutuphaneOtomasyonu</RootNamespace>
+    <AssemblyName>KutuphaneOtomasyonu</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AlinanKitaplar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlinanKitaplar.Designer.cs">
+      <DependentUpon>AlinanKitaplar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnaSayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaSayfa.Designer.cs">
+      <DependentUpon>AnaSayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baglanti.cs" />
+    <Compile Include="GuncelleOdunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuncelleOdunc.Designer.cs">
+      <DependentUpon>GuncelleOdunc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GüncellemeSekmesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GüncellemeSekmesi.Designer.cs">
+      <DependentUpon>GüncellemeSekmesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Iade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Iade.Designer.cs">
+      <DependentUpon>Iade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KitapEkleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KitapEkleme.Designer.cs">
+      <DependentUpon>KitapEkleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KitapGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KitapGuncelle.Designer.cs">
+      <DependentUpon>KitapGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KitapListeleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KitapListeleme.Designer.cs">
+      <DependentUpon>KitapListeleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KitapListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KitapListesi.Designer.cs">
+      <DependentUpon>KitapListesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KütüphaneOtomasyonuDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KütüphaneOtomasyonuDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="KütüphaneOtomasyonuDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KütüphaneOtomasyonuDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="KütüphaneOtomasyonuDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KütüphaneOtomasyonuDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="KütüphaneOtomasyonuDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KütüphaneOtomasyonuDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="KütüphaneOtomasyonuDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KütüphaneOtomasyonuDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="KütüphaneOtomasyonuDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KütüphaneOtomasyonuDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="OdunAlinanKitaplar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OdunAlinanKitaplar.Designer.cs">
+      <DependentUpon>OdunAlinanKitaplar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OduncAlma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OduncAlma.Designer.cs">
+      <DependentUpon>OduncAlma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OduncVer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OduncVer.Designer.cs">
+      <DependentUpon>OduncVer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelIslemleri.Designer.cs">
+      <DependentUpon>PersonelIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelPanel.Designer.cs">
+      <DependentUpon>PersonelPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UyeListeleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UyeListeleme.Designer.cs">
+      <DependentUpon>UyeListeleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YeniKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YeniKayit.Designer.cs">
+      <DependentUpon>YeniKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YeniKitapEkleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YeniKitapEkleme.Designer.cs">
+      <DependentUpon>YeniKitapEkleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YeniUye.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YeniUye.Designer.cs">
+      <DependentUpon>YeniUye.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AlinanKitaplar.resx">
+      <DependentUpon>AlinanKitaplar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnaSayfa.resx">
+      <DependentUpon>AnaSayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuncelleOdunc.resx">
+      <DependentUpon>GuncelleOdunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GüncellemeSekmesi.resx">
+      <DependentUpon>GüncellemeSekmesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Iade.resx">
+      <DependentUpon>Iade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KitapEkleme.resx">
+      <DependentUpon>KitapEkleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KitapGuncelle.resx">
+      <DependentUpon>KitapGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KitapListeleme.resx">
+      <DependentUpon>KitapListeleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KitapListesi.resx">
+      <DependentUpon>KitapListesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OdunAlinanKitaplar.resx">
+      <DependentUpon>OdunAlinanKitaplar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OduncAlma.resx">
+      <DependentUpon>OduncAlma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OduncVer.resx">
+      <DependentUpon>OduncVer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelIslemleri.resx">
+      <DependentUpon>PersonelIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelPanel.resx">
+      <DependentUpon>PersonelPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UyeListeleme.resx">
+      <DependentUpon>UyeListeleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YeniKayit.resx">
+      <DependentUpon>YeniKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YeniKitapEkleme.resx">
+      <DependentUpon>YeniKitapEkleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YeniUye.resx">
+      <DependentUpon>YeniUye.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="KütüphaneOtomasyonuDataSet.xsc">
+      <DependentUpon>KütüphaneOtomasyonuDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="KütüphaneOtomasyonuDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>KütüphaneOtomasyonuDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="KütüphaneOtomasyonuDataSet.xss">
+      <DependentUpon>KütüphaneOtomasyonuDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="KütüphaneOtomasyonuDataSet1.xsc">
+      <DependentUpon>KütüphaneOtomasyonuDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="KütüphaneOtomasyonuDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>KütüphaneOtomasyonuDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="KütüphaneOtomasyonuDataSet1.xss">
+      <DependentUpon>KütüphaneOtomasyonuDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="KütüphaneOtomasyonuDataSet2.xsc">
+      <DependentUpon>KütüphaneOtomasyonuDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="KütüphaneOtomasyonuDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>KütüphaneOtomasyonuDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="KütüphaneOtomasyonuDataSet2.xss">
+      <DependentUpon>KütüphaneOtomasyonuDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="KütüphaneOtomasyonuDataSet3.xsc">
+      <DependentUpon>KütüphaneOtomasyonuDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="KütüphaneOtomasyonuDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>KütüphaneOtomasyonuDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="KütüphaneOtomasyonuDataSet3.xss">
+      <DependentUpon>KütüphaneOtomasyonuDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="KütüphaneOtomasyonuDataSet4.xsc">
+      <DependentUpon>KütüphaneOtomasyonuDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="KütüphaneOtomasyonuDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>KütüphaneOtomasyonuDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="KütüphaneOtomasyonuDataSet4.xss">
+      <DependentUpon>KütüphaneOtomasyonuDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="KütüphaneOtomasyonuDataSet5.xsc">
+      <DependentUpon>KütüphaneOtomasyonuDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="KütüphaneOtomasyonuDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>KütüphaneOtomasyonuDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="KütüphaneOtomasyonuDataSet5.xss">
+      <DependentUpon>KütüphaneOtomasyonuDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

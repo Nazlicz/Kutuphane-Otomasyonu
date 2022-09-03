@@ -1,0 +1,1 @@
+Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename="YAPIŞTIRILACAK KISIM"\KutuphaneOtomasyonu.mdf;Integrated Security=True;Connect Timeout=30

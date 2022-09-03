@@ -1,0 +1,81 @@
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe.config
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.exe
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.AnaSayfa.resources
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.KitapListeleme.resources
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.PersonelIslemleri.resources
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.PersonelPanel.resources
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.UyeListeleme.resources
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.YeniUye.resources
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.GüncellemeSekmesi.resources
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.YeniKayit.resources
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.KitapEkleme.resources
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.KitapGuncelle.resources
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.YeniKitapEkleme.resources
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.OduncAlma.resources
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.KitapListesi.resources
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.OdunAlinanKitaplar.resources
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.GuncelleOdunc.resources
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.OduncVer.resources
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.KitapIade.resources
+C:\Users\Nazlı\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.Iade.resources
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe.config
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.KitapIade.resources
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.AnaSayfa.resources
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.GuncelleOdunc.resources
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.GüncellemeSekmesi.resources
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.Iade.resources
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.KitapEkleme.resources
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.KitapGuncelle.resources
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.KitapListeleme.resources
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.KitapListesi.resources
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.OdunAlinanKitaplar.resources
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.OduncAlma.resources
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.OduncVer.resources
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.PersonelIslemleri.resources
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.PersonelPanel.resources
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.UyeListeleme.resources
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.YeniKayit.resources
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.YeniKitapEkleme.resources
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.YeniUye.resources
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.exe
+C:\Users\Nazlı\Desktop\180707062_NazlıcanÇız\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe.config
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.KitapIade.resources
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.AnaSayfa.resources
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.GuncelleOdunc.resources
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.GüncellemeSekmesi.resources
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.Iade.resources
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.KitapEkleme.resources
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.KitapGuncelle.resources
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.KitapListeleme.resources
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.KitapListesi.resources
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.OdunAlinanKitaplar.resources
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.OduncAlma.resources
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.OduncVer.resources
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.PersonelIslemleri.resources
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.PersonelPanel.resources
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.UyeListeleme.resources
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.YeniKayit.resources
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.YeniKitapEkleme.resources
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.YeniUye.resources
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.exe
+C:\Users\Nazlı\Desktop\YEDEK\EKSTRA YEDEK\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.pdb

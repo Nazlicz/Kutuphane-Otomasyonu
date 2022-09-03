@@ -1,0 +1,19 @@
+1-Programı başlatmadan önce ödev dosyasının bulunduğu klasörün dizinini kopyalamanız ve adres adlı txt metnini açıp, 
+"YAPIŞTIRALACAK KISIM" yazan yere yapıştırmanız gerekiyor.
+
+2-Daha sonra klasörün içindeki 'adres' adlı txt dosyasını C dosyasına atmalısınız.
+
+3-Txt dosyasını C klasörüne attıktan sonra tekrardan ödev klasörüne girin.
+
+4-Daha sonra Kutuphane otomasyonu klasörüne girin ve sırasıyla Kutuphane Otomasyonu Setup > Debug > Kutuphane Otomasyonu Setup tıklayın
+ve dosyayı kurun. (Bu işlem biraz uzun sürebilir)
+
+5- Dosyayı kurduktan sonra 2 alt klasöre gidip, 'KutuphaneOtomasyonu.sln' açmanız ve ödev dosyasında bulunun database i programa 
+yüklemelisiniz. Visual Studio açıldıktan sonra Proje> Yeni Veri Kaynağı Ekle> Veritabanı > Veri Kümesi gidip, 'Yeni Bağlantı'a
+tıklamanız, Veri Kaynağını 'Microsoft SQL Server Veritabanı Dosyası' yapmanız ve gözata tıklayıp yüklemiş olduğunuz ödev dosyasını açıp
+içinde bulunan mdf dosyasını yüklemeniz gerekmektedir. Daha sonra Tamam butonuna tıkladığınızda işlemimiz bitmiştir.
+
+5-Masaüstünde oluşan 'KutuphaneOtomasyonu.exe' dosyasına çift tıklayarak programı çalıştırabilirsiniz.
+
+Personel ID: admin
+Şifre: 1234
